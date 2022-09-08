@@ -2,6 +2,6 @@
 
 int main(){
     print("hello~ world!");
-    print("test-complete-v3");
+    print("test-complete-v4");
     return 0;
 }
