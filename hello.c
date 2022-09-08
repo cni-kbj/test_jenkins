@@ -2,6 +2,6 @@
 
 int main(){
     print("hello~ world!");
-    print("test6");
+    print("test7");
     return 0;
 }
